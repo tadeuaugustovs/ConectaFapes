@@ -14,6 +14,7 @@ O objetivo desta refatoração é entregar uma interface robusta, densa e intuit
 * **Navegação Contextual:** Menu lateral colapsável com hierarquia clara e busca global inteligente (*Spotlight*) para acesso rápido a funções profundas do sistema.
 
 <img width="1853" height="962" alt="Captura de tela de 2026-01-21 01-29-19" src="https://github.com/user-attachments/assets/b2a5cc75-0dcb-4de9-9d0e-e179c711ae9b" />
+
 <img width="1853" height="962" alt="Captura de tela de 2026-01-21 01-29-29" src="https://github.com/user-attachments/assets/a30f5129-91f7-41ed-bffc-895aa0d46693" />
 
 
